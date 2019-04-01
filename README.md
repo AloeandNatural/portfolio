@@ -4,7 +4,6 @@ My Portfolio Website
 ## Built With
 * HTML5
 * CSS3
-* Sass
 * Javascript
 
 ## Authors
